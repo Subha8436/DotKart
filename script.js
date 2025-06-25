@@ -1,5 +1,17 @@
 const products = [
     {
+        name: "Color Block Men White T-shirt",
+        image: "https://rukminim3.flixcart.com/image/840/972/xif0q/shopsy-t-shirt/f/6/a/m-rm-polo-004-aksa-original-imaharatysrgqr2g.jpeg?q=60&crop=false",
+        price: "₹299",
+        link: "https://www.shopsy.in/color-block-men-white-t-shirt/p/itm94e06f41731e7?pid=XPTHARATJQ72KAUE&affid=inf_58a05c12-d91e-4903-a5e5-fb790385d6e6&marketplace=FLIPKART&cmpid=product.share.pp&_refId=PP.aef98505-1eba-465e-bc13-5efbc9a0f706.XPTHARATJQ72KAUE&_appId=CL",
+    },
+    {
+        name: "Printed Men Black T-shirt",
+        image: "https://rukminim3.flixcart.com/image/840/972/xif0q/shopsy-t-shirt/0/c/w/xl-most-as-h-money-inby-original-imah4zp7gynhwxut.jpeg?q=60&crop=false",
+        price: "₹179",
+        link: "https://www.shopsy.in/printed-men-black-t-shirt/p/itm91e4888f31e62?pid=XPTH5YMGGVWHXHZD&affid=inf_58a05c12-d91e-4903-a5e5-fb790385d6e6&marketplace=FLIPKART&cmpid=product.share.pp&_refId=PP.7d723818-a4df-48fd-ae60-8ef483e1a468.XPTH5YMGGVWHXHZD&_appId=CL",
+    },
+    {
         name: "Self Design Men Brown T-shirt",
         image: "https://rukminim3.flixcart.com/image/840/972/xif0q/t-shirt/l/f/a/xl-polo-8016-brown-o6-burrmellow-original-imahd96jhcwa7ebu.jpeg?q=60&crop=false",
         price: "₹245",

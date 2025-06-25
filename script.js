@@ -1,5 +1,17 @@
 const products = [
     {
+        name: "Men Orange, Grey Clogs",
+        image: "https://rukminim3.flixcart.com/image/840/972/xif0q/shopsy-sandal/i/e/9/6-s-org-grey-winner-6-hambler-grey-original-imagzx9yecgcwzat.jpeg?q=60&crop=false",
+        price: "₹279",
+        link: "https://www.shopsy.in/men-orange-grey-clogs/p/itm9718d52af37a4?pid=XSNGZX9YTVRSDF6U&affid=inf_58a05c12-d91e-4903-a5e5-fb790385d6e6&marketplace=FLIPKART&cmpid=product.share.pp&_refId=PP.e30eb074-fff6-40f9-90dd-573e67badf15.XSNGZX9YTVRSDF6U&_appId=CL",
+    },
+    {
+        name: "Men White Sandals",
+        image: "https://rukminim3.flixcart.com/image/840/972/xif0q/sandal/q/n/1/9-brd-1237-9-birde-white-original-imah32kfxqwfkmyg.jpeg?q=60&crop=false",
+        price: "₹259",
+        link: "https://www.shopsy.in/men-white-sandals/p/itm2dd1f72bf05e8?pid=XSNH4H93S7X2DJWH&affid=inf_58a05c12-d91e-4903-a5e5-fb790385d6e6&marketplace=FLIPKART&cmpid=product.share.pp&_refId=PP.7f5dcb6a-4116-40c6-bb50-f5a0f3232034.XSNH4H93S7X2DJWH&_appId=CL",
+    },
+    {
         name: "Men & Women Solid Low Cut (Pack of 3)",
         image: "https://rukminim2.flixcart.com/image/1200/1385/xif0q/sock/o/r/c/free-3-loafer-plain-303-fabdon-original-imah2yhnfvm7uzry.jpeg?q=60&crop=false",
         price: "₹100",
